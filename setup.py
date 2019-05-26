@@ -5,8 +5,8 @@ from setuptools import setup, find_packages
 setup(
     name='requestbin',
     version='2.0.0',
-    author='Runscope',
-    author_email='requestbin@runscope.com',
+    author='dotzero',
+    author_email='mail@dotzero.ru',
     description='HTTP request collector and inspector',
     packages=find_packages(),
     install_requires=['feedparser'],
